@@ -18,6 +18,8 @@ local versions = [
   version('0.17', '0.17.0'),
   version('0.18', '0.18.2'),
   version('0.19', '0.19.2'),
+  version('1.0', '1.0.0'),
+  version('1.1', '1.1.1'),
 ];
 
 config.new(
